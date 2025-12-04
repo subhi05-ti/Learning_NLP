@@ -4,3 +4,7 @@
 
 Welcome to my Natural Language Processing (NLP) learning repository!
 This space contains my notes, explanations, experiments, and summaries of important NLP concepts that I am studying.
+
+🧠 What is NLP?
+
+Natural Language Processing (NLP) is a branch of Artificial Intelligence (AI) that enables computers to understand, interpret, and generate human language.
