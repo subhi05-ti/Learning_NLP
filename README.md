@@ -23,3 +23,24 @@ Deep Learning
   Lowercasing
   Removing punctuation
   Normalization
+
+✔️ 2. Text Representation
+
+  Bag of Words (BoW)
+  One-hot encoding
+  TF-IDF
+  Word Embeddings
+  Word2Vec
+  CBOW
+  Skip-Gram
+  GloVe
+  Sentence Embeddings
+
+✔️ 3. Word2Vec Concepts
+
+  Context window
+  CBOW (predict target using context)
+  Skip-Gram (predict context using target)
+  Negative Sampling
+  Normalized vectors
+  Cosine similarity
