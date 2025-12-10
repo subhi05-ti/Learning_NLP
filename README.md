@@ -15,8 +15,8 @@ Machine Learning
 Deep Learning
 
 📚 Topics I Am Learning
-✔️ 1. Text Preprocessing
 
+✔️ 1. Text Preprocessing
   Tokenization
   Stopword Removal
   Stemming vs Lemmatization
@@ -25,7 +25,6 @@ Deep Learning
   Normalization
 
 ✔️ 2. Text Representation
-
   Bag of Words (BoW)
   One-hot encoding
   TF-IDF
@@ -37,10 +36,20 @@ Deep Learning
   Sentence Embeddings
 
 ✔️ 3. Word2Vec Concepts
-
   Context window
   CBOW (predict target using context)
   Skip-Gram (predict context using target)
   Negative Sampling
   Normalized vectors
   Cosine similarity
+
+✔️ 4. Dimensionality Reduction
+  PCA (Principal Component Analysis)
+  t-SNE (visualization)
+
+✔️ 5. Text Classification Basics
+  Naive Bayes
+  Logistic Regression
+  SVM
+  Training / testing splits
+  Evaluation metrics
