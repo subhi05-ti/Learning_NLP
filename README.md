@@ -53,3 +53,10 @@ Deep Learning
   SVM
   Training / testing splits
   Evaluation metrics
+
+✔️ 6. Advanced NLP (Future Learning)
+  RNNs / LSTMs / GRUs
+  Transformers
+  Attention mechanism
+  BERT, GPT
+  Machine Translation
