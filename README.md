@@ -60,3 +60,13 @@ Deep Learning
   Attention mechanism
   BERT, GPT
   Machine Translation
+
+
+🧪 Hands-on Practice
+  I am practicing the learned concepts using small experiments like:
+  Tokenizing a dataset
+  Building BoW and TF-IDF vectors
+  Training a Word2Vec embedding model
+  Visualizing word embeddings with PCA
+  Simple sentiment analysis models
+
