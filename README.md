@@ -70,3 +70,12 @@ Deep Learning
   Visualizing word embeddings with PCA
   Simple sentiment analysis models
 
+
+🛠️ Tools & Libraries Used
+  Python
+  NLTK
+  SpaCy
+  Gensim
+  Scikit-learn
+  NumPy / Pandas
+  Matplotlib / Seaborn
