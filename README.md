@@ -79,3 +79,9 @@ Deep Learning
   Scikit-learn
   NumPy / Pandas
   Matplotlib / Seaborn
+
+🎯 Goals of This Learning Journey
+  Build a strong NLP foundation
+  Understand how text data is transformed into numbers
+  Learn classic and modern NLP approaches
+  Prepare for advanced deep-learning NLP models
