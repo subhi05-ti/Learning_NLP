@@ -85,3 +85,10 @@ Deep Learning
   Understand how text data is transformed into numbers
   Learn classic and modern NLP approaches
   Prepare for advanced deep-learning NLP models
+
+  
+🌟 Future Plans
+  Move to deep learning NLP
+  Explore HuggingFace Transformers
+  Try fine-tuning a BERT model
+  Build a real NLP project later
