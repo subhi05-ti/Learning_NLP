@@ -61,6 +61,17 @@ Deep Learning
   BERT, GPT
   Machine Translation
 
+  ⚙️ Hyperparameter Tuning with Optuna
+
+  To improve model performance, I use Optuna, an automatic hyperparameter optimization framework.
+  
+  🔍 Why Optuna?
+  
+  Automates hyperparameter search
+  More efficient than manual tuning or grid search
+  Finds optimal parameters faster using smart sampling
+  Works well with NLP models and scikit-learn pipelines
+
 
 🧪 Hands-on Practice
   I am practicing the learned concepts using small experiments like:
